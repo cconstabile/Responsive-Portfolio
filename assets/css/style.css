@@ -221,9 +221,8 @@ footer {
     height: 50%;
   }
 
-  .home_container {
+  .topnav {
     width: 100%;
-    padding-top: 70px;
   }
 
   .left-container > div {
@@ -241,7 +240,7 @@ footer {
 
 @media only screen and (min-width: 600px) and (max-width: 899px) {
   
-  .home_races_container {
+  .topnav {
     width: 70%;
     position: relative;
     top: 5em;
@@ -264,11 +263,10 @@ footer {
 
   /* Home Page Begin */
 
-  .home_races_container {
+  .topnav {
     width: 80%;
     position: relative;
-    top: 5em;
-    padding: 21px;
+    padding-bottom: 21px;
     min-width: 900px;
   }
 
